@@ -138,13 +138,13 @@ API_HASH = "YOUR_API_HASH"
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-channel-file-exporter.git
+git clone https://github.com/annaqitty/tele-exported.git
 ```
 
 Enter the directory:
 
 ```bash
-cd telegram-channel-file-exporter
+cd tele-exported
 ```
 
 Install dependencies:
